@@ -1,0 +1,23 @@
+{
+  "name": "Norsk Bokmål",
+  "strings": {
+    "app.name": "Skjul ikoner",
+    "app.already_running": "Programmet kjører allerede.",
+    "tray.unavailable": "Systemstatusfeltet er ikke tilgjengelig.",
+    "section.hotkey": "Global snarvei",
+    "btn.edit": "Rediger",
+    "btn.save": "Lagre",
+    "btn.default": "Standard",
+    "section.behavior": "Oppførsel",
+    "check.minimize_tray": "Minimer til statusfeltet ved lukking",
+    "check.start_windows": "Start med Windows",
+    "lang.label": "Språk",
+    "btn.toggle_icons": "Bytt ikoner",
+    "btn.pause": "Pause",
+    "btn.active": "Aktiv",
+    "tray.pause_hotkey": "Sett snarvei på pause",
+    "tray.resume_hotkey": "Gjenoppta snarvei",
+    "tray.tooltip": "Skjul ikoner",
+    "tray.hidden_message": "Appen fortsetter å kjøre i statusfeltet."
+  }
+}

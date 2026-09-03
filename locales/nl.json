@@ -1,0 +1,23 @@
+{
+  "name": "Nederlands",
+  "strings": {
+    "app.name": "Pictogrammen verbergen",
+    "app.already_running": "De toepassing wordt al uitgevoerd.",
+    "tray.unavailable": "Het systeemvak is niet beschikbaar.",
+    "section.hotkey": "Globale sneltoets",
+    "btn.edit": "Bewerken",
+    "btn.save": "Opslaan",
+    "btn.default": "Standaard",
+    "section.behavior": "Gedrag",
+    "check.minimize_tray": "Minimaliseren naar systeemvak bij sluiten",
+    "check.start_windows": "Starten met Windows",
+    "lang.label": "Taal",
+    "btn.toggle_icons": "Pictogrammen wisselen",
+    "btn.pause": "Pauzeren",
+    "btn.active": "Actief",
+    "tray.pause_hotkey": "Sneltoets pauzeren",
+    "tray.resume_hotkey": "Sneltoets hervatten",
+    "tray.tooltip": "Pictogrammen verbergen",
+    "tray.hidden_message": "De app blijft actief in het systeemvak."
+  }
+}

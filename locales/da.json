@@ -1,0 +1,23 @@
+{
+  "name": "Dansk",
+  "strings": {
+    "app.name": "Skjul ikoner",
+    "app.already_running": "Programmet kører allerede.",
+    "tray.unavailable": "Proceslinjen er ikke tilgængelig.",
+    "section.hotkey": "Global genvej",
+    "btn.edit": "Rediger",
+    "btn.save": "Gem",
+    "btn.default": "Standard",
+    "section.behavior": "Adfærd",
+    "check.minimize_tray": "Minimer til proceslinjen ved lukning",
+    "check.start_windows": "Start med Windows",
+    "lang.label": "Sprog",
+    "btn.toggle_icons": "Skift ikoner",
+    "btn.pause": "Pause",
+    "btn.active": "Aktiv",
+    "tray.pause_hotkey": "Sæt genvej på pause",
+    "tray.resume_hotkey": "Genoptag genvej",
+    "tray.tooltip": "Skjul ikoner",
+    "tray.hidden_message": "Appen fortsætter med at køre i proceslinjen."
+  }
+}

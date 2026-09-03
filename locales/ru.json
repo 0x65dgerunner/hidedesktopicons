@@ -1,0 +1,23 @@
+{
+  "name": "Русский",
+  "strings": {
+    "app.name": "Скрыть значки",
+    "app.already_running": "Приложение уже запущено.",
+    "tray.unavailable": "Область уведомлений недоступна.",
+    "section.hotkey": "Глобальная комбинация",
+    "btn.edit": "Изменить",
+    "btn.save": "Сохранить",
+    "btn.default": "По умолчанию",
+    "section.behavior": "Поведение",
+    "check.minimize_tray": "Сворачивать в область уведомлений при закрытии",
+    "check.start_windows": "Запускать вместе с Windows",
+    "lang.label": "Язык",
+    "btn.toggle_icons": "Переключить значки",
+    "btn.pause": "Пауза",
+    "btn.active": "Активно",
+    "tray.pause_hotkey": "Приостановить комбинацию",
+    "tray.resume_hotkey": "Возобновить комбинацию",
+    "tray.tooltip": "Скрыть значки",
+    "tray.hidden_message": "Приложение продолжает работать в области уведомлений."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Português",
+  "strings": {
+    "app.name": "Ocultar Ícones",
+    "app.already_running": "O aplicativo já está em execução.",
+    "tray.unavailable": "A bandeja do sistema não está disponível.",
+    "section.hotkey": "Atalho global",
+    "btn.edit": "Editar",
+    "btn.save": "Salvar",
+    "btn.default": "Padrão",
+    "section.behavior": "Comportamento",
+    "check.minimize_tray": "Ocultar na bandeja ao fechar",
+    "check.start_windows": "Iniciar com o Windows",
+    "lang.label": "Idioma",
+    "runtime.label": "Modo de execução",
+    "runtime.gui": "Interface completa",
+    "runtime.tray": "Só bandeja (lite)",
+    "runtime.invisible": "Invisível (lite)",
+    "btn.toggle_icons": "Alternar ícones",
+    "btn.pause": "Pausar",
+    "btn.active": "Ativo",
+    "tray.pause_hotkey": "Pausar atalho",
+    "tray.resume_hotkey": "Retomar atalho",
+    "tray.tooltip": "Ocultar Ícones",
+    "tray.hidden_message": "O app continua na bandeja do sistema."
+  }
+}

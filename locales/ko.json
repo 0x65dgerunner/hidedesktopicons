@@ -1,0 +1,23 @@
+{
+  "name": "한국어",
+  "strings": {
+    "app.name": "아이콘 숨기기",
+    "app.already_running": "애플리케이션이 이미 실행 중입니다.",
+    "tray.unavailable": "시스템 트레이를 사용할 수 없습니다.",
+    "section.hotkey": "전역 단축키",
+    "btn.edit": "편집",
+    "btn.save": "저장",
+    "btn.default": "기본값",
+    "section.behavior": "동작",
+    "check.minimize_tray": "닫을 때 트레이로 최소화",
+    "check.start_windows": "Windows 시작 시 실행",
+    "lang.label": "언어",
+    "btn.toggle_icons": "아이콘 전환",
+    "btn.pause": "일시정지",
+    "btn.active": "활성",
+    "tray.pause_hotkey": "단축키 일시정지",
+    "tray.resume_hotkey": "단축키 재개",
+    "tray.tooltip": "아이콘 숨기기",
+    "tray.hidden_message": "앱이 시스템 트레이에서 계속 실행됩니다."
+  }
+}

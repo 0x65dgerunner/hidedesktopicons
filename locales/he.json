@@ -1,0 +1,23 @@
+{
+  "name": "עברית",
+  "strings": {
+    "app.name": "הסתרת סמלים",
+    "app.already_running": "היישום כבר פועל.",
+    "tray.unavailable": "מגש המערכת אינו זמין.",
+    "section.hotkey": "קיצור דרך גלובלי",
+    "btn.edit": "עריכה",
+    "btn.save": "שמירה",
+    "btn.default": "ברירת מחדל",
+    "section.behavior": "התנהגות",
+    "check.minimize_tray": "מזעור למגש בעת סגירה",
+    "check.start_windows": "הפעלה עם Windows",
+    "lang.label": "שפה",
+    "btn.toggle_icons": "החלפת סמלים",
+    "btn.pause": "השהיה",
+    "btn.active": "פעיל",
+    "tray.pause_hotkey": "השהיית קיצור דרך",
+    "tray.resume_hotkey": "חידוש קיצור דרך",
+    "tray.tooltip": "הסתרת סמלים",
+    "tray.hidden_message": "היישום ממשיך לפעול במגש המערכת."
+  }
+}

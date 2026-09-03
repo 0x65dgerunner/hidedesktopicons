@@ -1,0 +1,23 @@
+{
+  "name": "Italiano",
+  "strings": {
+    "app.name": "Nascondi icone",
+    "app.already_running": "L'applicazione è già in esecuzione.",
+    "tray.unavailable": "L'area di notifica non è disponibile.",
+    "section.hotkey": "Scorciatoia globale",
+    "btn.edit": "Modifica",
+    "btn.save": "Salva",
+    "btn.default": "Predefinito",
+    "section.behavior": "Comportamento",
+    "check.minimize_tray": "Riduci a icona nell'area di notifica alla chiusura",
+    "check.start_windows": "Avvia con Windows",
+    "lang.label": "Lingua",
+    "btn.toggle_icons": "Mostra/nascondi icone",
+    "btn.pause": "Pausa",
+    "btn.active": "Attivo",
+    "tray.pause_hotkey": "Metti in pausa la scorciatoia",
+    "tray.resume_hotkey": "Riprendi la scorciatoia",
+    "tray.tooltip": "Nascondi icone",
+    "tray.hidden_message": "L'app continua a funzionare nell'area di notifica."
+  }
+}

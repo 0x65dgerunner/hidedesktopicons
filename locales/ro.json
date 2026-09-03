@@ -1,0 +1,23 @@
+{
+  "name": "Română",
+  "strings": {
+    "app.name": "Ascunde pictogramele",
+    "app.already_running": "Aplicația rulează deja.",
+    "tray.unavailable": "Zona de notificări nu este disponibilă.",
+    "section.hotkey": "Scurtătură globală",
+    "btn.edit": "Editare",
+    "btn.save": "Salvare",
+    "btn.default": "Implicit",
+    "section.behavior": "Comportament",
+    "check.minimize_tray": "Minimizează în zona de notificări la închidere",
+    "check.start_windows": "Pornește cu Windows",
+    "lang.label": "Limbă",
+    "btn.toggle_icons": "Comută pictogramele",
+    "btn.pause": "Pauză",
+    "btn.active": "Activ",
+    "tray.pause_hotkey": "Pauzează scurtătura",
+    "tray.resume_hotkey": "Reia scurtătura",
+    "tray.tooltip": "Ascunde pictogramele",
+    "tray.hidden_message": "Aplicația continuă să ruleze în zona de notificări."
+  }
+}

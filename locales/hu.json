@@ -1,0 +1,23 @@
+{
+  "name": "Magyar",
+  "strings": {
+    "app.name": "Ikonok elrejtése",
+    "app.already_running": "Az alkalmazás már fut.",
+    "tray.unavailable": "A tálcaterület nem érhető el.",
+    "section.hotkey": "Globális gyorsbillentyű",
+    "btn.edit": "Szerkesztés",
+    "btn.save": "Mentés",
+    "btn.default": "Alapértelmezett",
+    "section.behavior": "Viselkedés",
+    "check.minimize_tray": "Bezáráskor minimalizálás a tálcára",
+    "check.start_windows": "Indítás a Windows-szal",
+    "lang.label": "Nyelv",
+    "btn.toggle_icons": "Ikonok váltása",
+    "btn.pause": "Szünet",
+    "btn.active": "Aktív",
+    "tray.pause_hotkey": "Gyorsbillentyű szüneteltetése",
+    "tray.resume_hotkey": "Gyorsbillentyű folytatása",
+    "tray.tooltip": "Ikonok elrejtése",
+    "tray.hidden_message": "Az alkalmazás tovább fut a tálcán."
+  }
+}

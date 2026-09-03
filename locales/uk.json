@@ -1,0 +1,23 @@
+{
+  "name": "Українська",
+  "strings": {
+    "app.name": "Приховати значки",
+    "app.already_running": "Програма вже запущена.",
+    "tray.unavailable": "Область сповіщень недоступна.",
+    "section.hotkey": "Глобальне поєднання клавіш",
+    "btn.edit": "Редагувати",
+    "btn.save": "Зберегти",
+    "btn.default": "За замовчуванням",
+    "section.behavior": "Поведінка",
+    "check.minimize_tray": "Згортати в область сповіщень при закритті",
+    "check.start_windows": "Запускати разом із Windows",
+    "lang.label": "Мова",
+    "btn.toggle_icons": "Перемкнути значки",
+    "btn.pause": "Пауза",
+    "btn.active": "Активно",
+    "tray.pause_hotkey": "Призупинити поєднання",
+    "tray.resume_hotkey": "Відновити поєднання",
+    "tray.tooltip": "Приховати значки",
+    "tray.hidden_message": "Програма продовжує працювати в області сповіщень."
+  }
+}

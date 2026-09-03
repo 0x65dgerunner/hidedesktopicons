@@ -1,0 +1,23 @@
+{
+  "name": "ไทย",
+  "strings": {
+    "app.name": "ซ่อนไอคอน",
+    "app.already_running": "แอปพลิเคชันกำลังทำงานอยู่แล้ว",
+    "tray.unavailable": "ถาดระบบไม่พร้อมใช้งาน",
+    "section.hotkey": "แป้นลัดทั่วระบบ",
+    "btn.edit": "แก้ไข",
+    "btn.save": "บันทึก",
+    "btn.default": "ค่าเริ่มต้น",
+    "section.behavior": "พฤติกรรม",
+    "check.minimize_tray": "ย่อลงถาดเมื่อปิด",
+    "check.start_windows": "เริ่มพร้อม Windows",
+    "lang.label": "ภาษา",
+    "btn.toggle_icons": "สลับไอคอน",
+    "btn.pause": "หยุดชั่วคราว",
+    "btn.active": "ใช้งาน",
+    "tray.pause_hotkey": "หยุดแป้นลัดชั่วคราว",
+    "tray.resume_hotkey": "ใช้แป้นลัดต่อ",
+    "tray.tooltip": "ซ่อนไอคอน",
+    "tray.hidden_message": "แอปยังทำงานอยู่ในถาดระบบ"
+  }
+}

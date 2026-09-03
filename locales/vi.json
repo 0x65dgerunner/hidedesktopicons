@@ -1,0 +1,23 @@
+{
+  "name": "Tiếng Việt",
+  "strings": {
+    "app.name": "Ẩn biểu tượng",
+    "app.already_running": "Ứng dụng đang chạy.",
+    "tray.unavailable": "Khay hệ thống không khả dụng.",
+    "section.hotkey": "Phím tắt toàn cục",
+    "btn.edit": "Chỉnh sửa",
+    "btn.save": "Lưu",
+    "btn.default": "Mặc định",
+    "section.behavior": "Hành vi",
+    "check.minimize_tray": "Thu nhỏ vào khay khi đóng",
+    "check.start_windows": "Khởi động cùng Windows",
+    "lang.label": "Ngôn ngữ",
+    "btn.toggle_icons": "Bật/tắt biểu tượng",
+    "btn.pause": "Tạm dừng",
+    "btn.active": "Đang hoạt động",
+    "tray.pause_hotkey": "Tạm dừng phím tắt",
+    "tray.resume_hotkey": "Tiếp tục phím tắt",
+    "tray.tooltip": "Ẩn biểu tượng",
+    "tray.hidden_message": "Ứng dụng vẫn chạy trong khay hệ thống."
+  }
+}

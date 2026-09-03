@@ -1,0 +1,23 @@
+{
+  "name": "Français",
+  "strings": {
+    "app.name": "Masquer les icônes",
+    "app.already_running": "L'application est déjà en cours d'exécution.",
+    "tray.unavailable": "La zone de notification n'est pas disponible.",
+    "section.hotkey": "Raccourci global",
+    "btn.edit": "Modifier",
+    "btn.save": "Enregistrer",
+    "btn.default": "Par défaut",
+    "section.behavior": "Comportement",
+    "check.minimize_tray": "Réduire dans la zone de notification à la fermeture",
+    "check.start_windows": "Démarrer avec Windows",
+    "lang.label": "Langue",
+    "btn.toggle_icons": "Basculer les icônes",
+    "btn.pause": "Pause",
+    "btn.active": "Actif",
+    "tray.pause_hotkey": "Mettre le raccourci en pause",
+    "tray.resume_hotkey": "Reprendre le raccourci",
+    "tray.tooltip": "Masquer les icônes",
+    "tray.hidden_message": "L'application continue de s'exécuter dans la zone de notification."
+  }
+}

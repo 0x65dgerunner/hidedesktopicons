@@ -1,0 +1,23 @@
+{
+  "name": "Türkçe",
+  "strings": {
+    "app.name": "Simgeleri Gizle",
+    "app.already_running": "Uygulama zaten çalışıyor.",
+    "tray.unavailable": "Bildirim alanı kullanılamıyor.",
+    "section.hotkey": "Genel kısayol",
+    "btn.edit": "Düzenle",
+    "btn.save": "Kaydet",
+    "btn.default": "Varsayılan",
+    "section.behavior": "Davranış",
+    "check.minimize_tray": "Kapatırken bildirim alanına küçült",
+    "check.start_windows": "Windows ile başlat",
+    "lang.label": "Dil",
+    "btn.toggle_icons": "Simgeleri değiştir",
+    "btn.pause": "Duraklat",
+    "btn.active": "Etkin",
+    "tray.pause_hotkey": "Kısayolu duraklat",
+    "tray.resume_hotkey": "Kısayolu sürdür",
+    "tray.tooltip": "Simgeleri Gizle",
+    "tray.hidden_message": "Uygulama bildirim alanında çalışmaya devam ediyor."
+  }
+}

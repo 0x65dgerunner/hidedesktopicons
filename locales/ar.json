@@ -1,0 +1,23 @@
+{
+  "name": "العربية",
+  "strings": {
+    "app.name": "إخفاء الأيقونات",
+    "app.already_running": "التطبيق قيد التشغيل بالفعل.",
+    "tray.unavailable": "شريط الإعلامات غير متاح.",
+    "section.hotkey": "اختصار عام",
+    "btn.edit": "تعديل",
+    "btn.save": "حفظ",
+    "btn.default": "افتراضي",
+    "section.behavior": "السلوك",
+    "check.minimize_tray": "تصغير إلى شريط الإعلامات عند الإغلاق",
+    "check.start_windows": "البدء مع Windows",
+    "lang.label": "اللغة",
+    "btn.toggle_icons": "تبديل الأيقونات",
+    "btn.pause": "إيقاف مؤقت",
+    "btn.active": "نشط",
+    "tray.pause_hotkey": "إيقاف الاختصار مؤقتاً",
+    "tray.resume_hotkey": "استئناف الاختصار",
+    "tray.tooltip": "إخفاء الأيقونات",
+    "tray.hidden_message": "يستمر التطبيق في العمل في شريط الإعلامات."
+  }
+}

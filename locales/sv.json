@@ -1,0 +1,23 @@
+{
+  "name": "Svenska",
+  "strings": {
+    "app.name": "Dölj ikoner",
+    "app.already_running": "Programmet körs redan.",
+    "tray.unavailable": "Aktivitetsfältet är inte tillgängligt.",
+    "section.hotkey": "Globalt kortkommando",
+    "btn.edit": "Redigera",
+    "btn.save": "Spara",
+    "btn.default": "Standard",
+    "section.behavior": "Beteende",
+    "check.minimize_tray": "Minimera till aktivitetsfältet vid stängning",
+    "check.start_windows": "Starta med Windows",
+    "lang.label": "Språk",
+    "btn.toggle_icons": "Växla ikoner",
+    "btn.pause": "Pausa",
+    "btn.active": "Aktiv",
+    "tray.pause_hotkey": "Pausa kortkommando",
+    "tray.resume_hotkey": "Återuppta kortkommando",
+    "tray.tooltip": "Dölj ikoner",
+    "tray.hidden_message": "Appen fortsätter att köras i aktivitetsfältet."
+  }
+}

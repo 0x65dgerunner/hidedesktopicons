@@ -1,0 +1,23 @@
+{
+  "name": "繁體中文",
+  "strings": {
+    "app.name": "隱藏圖示",
+    "app.already_running": "應用程式已在執行中。",
+    "tray.unavailable": "系統匣無法使用。",
+    "section.hotkey": "全域快速鍵",
+    "btn.edit": "編輯",
+    "btn.save": "儲存",
+    "btn.default": "預設",
+    "section.behavior": "行為",
+    "check.minimize_tray": "關閉時最小化到系統匣",
+    "check.start_windows": "隨 Windows 啟動",
+    "lang.label": "語言",
+    "btn.toggle_icons": "切換圖示",
+    "btn.pause": "暫停",
+    "btn.active": "啟用",
+    "tray.pause_hotkey": "暫停快速鍵",
+    "tray.resume_hotkey": "恢復快速鍵",
+    "tray.tooltip": "隱藏圖示",
+    "tray.hidden_message": "應用程式仍在系統匣中執行。"
+  }
+}

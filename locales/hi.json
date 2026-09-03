@@ -1,0 +1,23 @@
+{
+  "name": "हिन्दी",
+  "strings": {
+    "app.name": "आइकन छुपाएँ",
+    "app.already_running": "एप्लिकेशन पहले से चल रहा है।",
+    "tray.unavailable": "सिस्टम ट्रे उपलब्ध नहीं है।",
+    "section.hotkey": "वैश्विक शॉर्टकट",
+    "btn.edit": "संपादित करें",
+    "btn.save": "सहेजें",
+    "btn.default": "डिफ़ॉल्ट",
+    "section.behavior": "व्यवहार",
+    "check.minimize_tray": "बंद करने पर ट्रे में छोटा करें",
+    "check.start_windows": "Windows के साथ शुरू करें",
+    "lang.label": "भाषा",
+    "btn.toggle_icons": "आइकन टॉगल करें",
+    "btn.pause": "रोकें",
+    "btn.active": "सक्रिय",
+    "tray.pause_hotkey": "शॉर्टकट रोकें",
+    "tray.resume_hotkey": "शॉर्टकट फिर से शुरू करें",
+    "tray.tooltip": "आइकन छुपाएँ",
+    "tray.hidden_message": "ऐप सिस्टम ट्रे में चलता रहता है।"
+  }
+}

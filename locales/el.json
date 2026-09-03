@@ -1,0 +1,23 @@
+{
+  "name": "Ελληνικά",
+  "strings": {
+    "app.name": "Απόκρυψη εικονιδίων",
+    "app.already_running": "Η εφαρμογή εκτελείται ήδη.",
+    "tray.unavailable": "Η γραμμή ειδοποιήσεων δεν είναι διαθέσιμη.",
+    "section.hotkey": "Καθολική συντόμευση",
+    "btn.edit": "Επεξεργασία",
+    "btn.save": "Αποθήκευση",
+    "btn.default": "Προεπιλογή",
+    "section.behavior": "Συμπεριφορά",
+    "check.minimize_tray": "Ελαχιστοποίηση στη γραμμή ειδοποιήσεων κατά το κλείσιμο",
+    "check.start_windows": "Εκκίνηση με τα Windows",
+    "lang.label": "Γλώσσα",
+    "btn.toggle_icons": "Εναλλαγή εικονιδίων",
+    "btn.pause": "Παύση",
+    "btn.active": "Ενεργό",
+    "tray.pause_hotkey": "Παύση συντόμευσης",
+    "tray.resume_hotkey": "Συνέχιση συντόμευσης",
+    "tray.tooltip": "Απόκρυψη εικονιδίων",
+    "tray.hidden_message": "Η εφαρμογή συνεχίζει να εκτελείται στη γραμμή ειδοποιήσεων."
+  }
+}

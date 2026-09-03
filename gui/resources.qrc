@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="stroke/settings.svg">icons/stroke/settings.svg</file>
+        <file alias="solid/settings.svg">icons/solid/settings.svg</file>
+        <file alias="stroke/close.svg">icons/stroke/close.svg</file>
+        <file alias="solid/close.svg">icons/solid/close.svg</file>
+        <file alias="stroke/minimize.svg">icons/stroke/minimize.svg</file>
+        <file alias="solid/minimize.svg">icons/solid/minimize.svg</file>
+        <file alias="stroke/maximize.svg">icons/stroke/maximize.svg</file>
+        <file alias="solid/maximize.svg">icons/solid/maximize.svg</file>
+        <file alias="stroke/restore.svg">icons/stroke/restore.svg</file>
+        <file alias="solid/restore.svg">icons/solid/restore.svg</file>
+        <file alias="check.svg">icons/check.svg</file>
+    </qresource>
+</RCC>

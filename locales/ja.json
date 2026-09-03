@@ -1,0 +1,23 @@
+{
+  "name": "日本語",
+  "strings": {
+    "app.name": "アイコンを非表示",
+    "app.already_running": "アプリケーションは既に実行中です。",
+    "tray.unavailable": "システムトレイを使用できません。",
+    "section.hotkey": "グローバルショートカット",
+    "btn.edit": "編集",
+    "btn.save": "保存",
+    "btn.default": "既定",
+    "section.behavior": "動作",
+    "check.minimize_tray": "閉じるときにトレイに最小化",
+    "check.start_windows": "Windows 起動時に実行",
+    "lang.label": "言語",
+    "btn.toggle_icons": "アイコンの切り替え",
+    "btn.pause": "一時停止",
+    "btn.active": "有効",
+    "tray.pause_hotkey": "ショートカットを一時停止",
+    "tray.resume_hotkey": "ショートカットを再開",
+    "tray.tooltip": "アイコンを非表示",
+    "tray.hidden_message": "アプリはシステムトレイで動作し続けます。"
+  }
+}

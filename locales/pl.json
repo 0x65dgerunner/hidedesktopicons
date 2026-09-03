@@ -1,0 +1,23 @@
+{
+  "name": "Polski",
+  "strings": {
+    "app.name": "Ukryj ikony",
+    "app.already_running": "Aplikacja jest już uruchomiona.",
+    "tray.unavailable": "Obszar powiadomień jest niedostępny.",
+    "section.hotkey": "Globalny skrót",
+    "btn.edit": "Edytuj",
+    "btn.save": "Zapisz",
+    "btn.default": "Domyślny",
+    "section.behavior": "Zachowanie",
+    "check.minimize_tray": "Minimalizuj do obszaru powiadomień przy zamykaniu",
+    "check.start_windows": "Uruchamiaj z systemem Windows",
+    "lang.label": "Język",
+    "btn.toggle_icons": "Przełącz ikony",
+    "btn.pause": "Wstrzymaj",
+    "btn.active": "Aktywny",
+    "tray.pause_hotkey": "Wstrzymaj skrót",
+    "tray.resume_hotkey": "Wznów skrót",
+    "tray.tooltip": "Ukryj ikony",
+    "tray.hidden_message": "Aplikacja nadal działa w obszarze powiadomień."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Deutsch",
+  "strings": {
+    "app.name": "Symbole ausblenden",
+    "app.already_running": "Die Anwendung wird bereits ausgeführt.",
+    "tray.unavailable": "Das Infobereich-Symbol ist nicht verfügbar.",
+    "section.hotkey": "Globale Tastenkombination",
+    "btn.edit": "Bearbeiten",
+    "btn.save": "Speichern",
+    "btn.default": "Standard",
+    "section.behavior": "Verhalten",
+    "check.minimize_tray": "Beim Schließen in den Infobereich minimieren",
+    "check.start_windows": "Mit Windows starten",
+    "lang.label": "Sprache",
+    "btn.toggle_icons": "Symbole umschalten",
+    "btn.pause": "Pausieren",
+    "btn.active": "Aktiv",
+    "tray.pause_hotkey": "Tastenkombination pausieren",
+    "tray.resume_hotkey": "Tastenkombination fortsetzen",
+    "tray.tooltip": "Symbole ausblenden",
+    "tray.hidden_message": "Die App läuft weiter im Infobereich."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Suomi",
+  "strings": {
+    "app.name": "Piilota kuvakkeet",
+    "app.already_running": "Sovellus on jo käynnissä.",
+    "tray.unavailable": "Ilmoitusalue ei ole käytettävissä.",
+    "section.hotkey": "Yleinen pikanäppäin",
+    "btn.edit": "Muokkaa",
+    "btn.save": "Tallenna",
+    "btn.default": "Oletus",
+    "section.behavior": "Käyttäytyminen",
+    "check.minimize_tray": "Pienennä ilmoitusalueelle sulkemisen yhteydessä",
+    "check.start_windows": "Käynnistä Windowsin mukana",
+    "lang.label": "Kieli",
+    "btn.toggle_icons": "Vaihda kuvakkeet",
+    "btn.pause": "Keskeytä",
+    "btn.active": "Aktiivinen",
+    "tray.pause_hotkey": "Keskeytä pikanäppäin",
+    "tray.resume_hotkey": "Jatka pikanäppäintä",
+    "tray.tooltip": "Piilota kuvakkeet",
+    "tray.hidden_message": "Sovellus jatkaa toimintaa ilmoitusalueella."
+  }
+}

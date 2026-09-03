@@ -1,0 +1,27 @@
+{
+  "name": "English",
+  "strings": {
+    "app.name": "Hide Icons",
+    "app.already_running": "The application is already running.",
+    "tray.unavailable": "The system tray is not available.",
+    "section.hotkey": "Global shortcut",
+    "btn.edit": "Edit",
+    "btn.save": "Save",
+    "btn.default": "Default",
+    "section.behavior": "Behavior",
+    "check.minimize_tray": "Minimize to tray on close",
+    "check.start_windows": "Start with Windows",
+    "lang.label": "Language",
+    "runtime.label": "Runtime mode",
+    "runtime.gui": "Full interface",
+    "runtime.tray": "Tray only (lite)",
+    "runtime.invisible": "Invisible (lite)",
+    "btn.toggle_icons": "Toggle icons",
+    "btn.pause": "Pause",
+    "btn.active": "Active",
+    "tray.pause_hotkey": "Pause shortcut",
+    "tray.resume_hotkey": "Resume shortcut",
+    "tray.tooltip": "Hide Icons",
+    "tray.hidden_message": "The app keeps running in the system tray."
+  }
+}

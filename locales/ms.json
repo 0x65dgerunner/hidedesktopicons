@@ -1,0 +1,23 @@
+{
+  "name": "Bahasa Melayu",
+  "strings": {
+    "app.name": "Sembunyikan Ikon",
+    "app.already_running": "Aplikasi sudah berjalan.",
+    "tray.unavailable": "Dulang sistem tidak tersedia.",
+    "section.hotkey": "Pintasan global",
+    "btn.edit": "Edit",
+    "btn.save": "Simpan",
+    "btn.default": "Lalai",
+    "section.behavior": "Kelakuan",
+    "check.minimize_tray": "Minimumkan ke dulang semasa ditutup",
+    "check.start_windows": "Mulakan dengan Windows",
+    "lang.label": "Bahasa",
+    "btn.toggle_icons": "Togol ikon",
+    "btn.pause": "Jeda",
+    "btn.active": "Aktif",
+    "tray.pause_hotkey": "Jeda pintasan",
+    "tray.resume_hotkey": "Sambung pintasan",
+    "tray.tooltip": "Sembunyikan Ikon",
+    "tray.hidden_message": "Aplikasi terus berjalan di dulang sistem."
+  }
+}

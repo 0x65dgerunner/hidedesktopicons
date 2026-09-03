@@ -1,0 +1,23 @@
+{
+  "name": "Čeština",
+  "strings": {
+    "app.name": "Skrýt ikony",
+    "app.already_running": "Aplikace již běží.",
+    "tray.unavailable": "Oznamovací oblast není k dispozici.",
+    "section.hotkey": "Globální zkratka",
+    "btn.edit": "Upravit",
+    "btn.save": "Uložit",
+    "btn.default": "Výchozí",
+    "section.behavior": "Chování",
+    "check.minimize_tray": "Při zavření minimalizovat do oznamovací oblasti",
+    "check.start_windows": "Spustit se systémem Windows",
+    "lang.label": "Jazyk",
+    "btn.toggle_icons": "Přepnout ikony",
+    "btn.pause": "Pozastavit",
+    "btn.active": "Aktivní",
+    "tray.pause_hotkey": "Pozastavit zkratku",
+    "tray.resume_hotkey": "Obnovit zkratku",
+    "tray.tooltip": "Skrýt ikony",
+    "tray.hidden_message": "Aplikace stále běží v oznamovací oblasti."
+  }
+}

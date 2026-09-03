@@ -1,0 +1,23 @@
+{
+  "name": "Bahasa Indonesia",
+  "strings": {
+    "app.name": "Sembunyikan Ikon",
+    "app.already_running": "Aplikasi sudah berjalan.",
+    "tray.unavailable": "Baki sistem tidak tersedia.",
+    "section.hotkey": "Pintasan global",
+    "btn.edit": "Edit",
+    "btn.save": "Simpan",
+    "btn.default": "Bawaan",
+    "section.behavior": "Perilaku",
+    "check.minimize_tray": "Minimalkan ke baki saat ditutup",
+    "check.start_windows": "Mulai dengan Windows",
+    "lang.label": "Bahasa",
+    "btn.toggle_icons": "Alihkan ikon",
+    "btn.pause": "Jeda",
+    "btn.active": "Aktif",
+    "tray.pause_hotkey": "Jeda pintasan",
+    "tray.resume_hotkey": "Lanjutkan pintasan",
+    "tray.tooltip": "Sembunyikan Ikon",
+    "tray.hidden_message": "Aplikasi tetap berjalan di baki sistem."
+  }
+}
