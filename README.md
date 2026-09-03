@@ -69,13 +69,60 @@ Settings are stored in `settings.json` next to the executable.
 - Visual Studio 2022 (MSVC)
 - Qt 6.7+ (Widgets, Svg)
 - CMake 3.16+
+- [Fluent-Qt](https://github.com/calvinhxx/Fluent-Qt) (cloned manually — see below)
+
+### Fluent-Qt (third-party dependency)
+
+The settings window uses **Fluent-Qt**, a Fluent Design component library for Qt Widgets. The source is expected at `third_party/Fluent-Qt` and is **not** shipped with this repository (it is listed in `.gitignore`).
+
+**1. Clone this project**
+
+```powershell
+git clone https://github.com/0x65dgerunner/hidedesktopicons.git
+cd hidedesktopicons
+```
+
+**2. Clone Fluent-Qt into `third_party/`**
+
+From the project root:
+
+```powershell
+git clone https://github.com/calvinhxx/Fluent-Qt.git third_party/Fluent-Qt
+```
+
+If the `third_party` folder does not exist yet, create it first:
+
+```powershell
+mkdir third_party
+git clone https://github.com/calvinhxx/Fluent-Qt.git third_party/Fluent-Qt
+```
+
+**3. (Optional) Pin a release tag**
+
+For reproducible builds, check out a specific Fluent-Qt version before compiling:
+
+```powershell
+cd third_party/Fluent-Qt
+git checkout v1.8.0
+cd ../..
+```
+
+**Alternative: Git submodule**
+
+If you prefer submodules, add Fluent-Qt once and then use `git submodule update --init --recursive` on future clones:
+
+```powershell
+git submodule add https://github.com/calvinhxx/Fluent-Qt.git third_party/Fluent-Qt
+```
+
+CMake picks up the library automatically via `add_subdirectory(third_party/Fluent-Qt)` and links `FluentQt::FluentQt` to the GUI target. Gallery, examples, and tests are disabled in this project's `CMakeLists.txt`.
 
 ### Steps
 
 ```powershell
-git clone <your-repo-url>
-cd HideDesktopIcons
-git submodule update --init --recursive
+git clone https://github.com/0x65dgerunner/hidedesktopicons.git
+cd hidedesktopicons
+git clone https://github.com/calvinhxx/Fluent-Qt.git third_party/Fluent-Qt
 
 cmake -B build -DCMAKE_PREFIX_PATH="C:/Qt/6.8.2/msvc2022_64"
 cmake --build build --config Release
