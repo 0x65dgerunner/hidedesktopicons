@@ -143,6 +143,42 @@ To disable the lite build:
 cmake -B build -DBUILD_LITE=OFF
 ```
 
+### Release (build + download package)
+
+Use the release script to compile, bundle Qt runtime files, locale dictionaries, and both executables into a zip under `dist/`.
+
+**Local build and zip**
+
+```powershell
+.\scripts\release.ps1
+```
+
+**Build, zip, and publish to GitHub Releases** (requires [GitHub CLI](https://cli.github.com/)):
+
+```powershell
+.\scripts\release.ps1 -Version 1.0.0 -Publish
+```
+
+**Publish via Git tag** (uses the GitHub Actions workflow in [`.github/workflows/release.yml`](.github/workflows/release.yml)):
+
+```powershell
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+After the workflow finishes, the zip appears on the repository **Releases** page for download.
+
+| Output | Path |
+|--------|------|
+| Staged folder | `dist/HideDesktopIcons-<version>-win64/` |
+| Download zip | `dist/HideDesktopIcons-<version>-win64.zip` |
+
+Optional flags:
+
+- `-QtPath "C:/Qt/6.8.2/msvc2022_64"` — custom Qt install path
+- `-SkipBuild` — repackage an existing `build/Release` output
+- `-ReleaseNotes "..."` — custom notes when using `-Publish`
+
 ---
 
 ## Languages
