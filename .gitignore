@@ -18,3 +18,4 @@ cmake_install.cmake
 
 Thumbs.db
 Desktop.ini
+third_party/Fluent-Qt
